@@ -15,7 +15,7 @@ AI Expert, Author, Keynote Speaker
 
                             
 
-Check out my other courses on [My Website](https://www.kevinamyi.com/).
+Check out my other courses on [My Website](https://www.kevinamayi.com/).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
