@@ -9,13 +9,13 @@ Most AI automation tutorials rely on cloud APIs, which pose risks when handling 
 
 ## Instructor
 
-Tobias Zwingmann
+Kevin Amayi
 
 AI Expert, Author, Keynote Speaker
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [My Website](https://www.kevinamyi.com/).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
